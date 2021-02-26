@@ -1,10 +1,10 @@
-# Omeka Classic User Manual
+# Thursday Church User Manual
 
-[Omeka Classic](https://omeka.org/classic/) is a web publishing platform for sharing digital collections and creating media-rich online exhibits.
+[Thursday Church](https://thursdaychurch.org/) is a web publishing platform for sharing digital collections and creating media-rich online exhibits.
 
-Omeka Classic is part of the [Omeka family of web publishing platforms](https://omeka.org/).
+Thursday Church is part of the [thursdaychurch family of web publishing platforms](https://thursdaychurch.org/).
 
-This repository is the content of the [Omeka Classic User Manual](https://omeka.org/classic/docs/) and is best viewed on the offical site.
+This repository is the content of the [Thursday Church User Manual](https://thursdaychurch.org/docs/) and is best viewed on the offical site.
 
 ## Contributing to the User Manual
 

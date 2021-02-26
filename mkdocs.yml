@@ -1,9 +1,9 @@
-site_name: 'Omeka Classic User Manual'
+site_name: 'Thursday Church Technical Arts Documentation'
 theme: 
     name: 'readthedocs'
     custom_dir: 'omeka/'
 site_dir: 'html'
-repo_url: 'http://github.com/omeka/classic-enduser'
+repo_url: 'http://github.com/ThursdayChurch/docs.thursdaychurch.org'
 extra_css: 
     - css/extra.css
 nav:
